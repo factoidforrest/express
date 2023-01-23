@@ -62,6 +62,7 @@
   },
   "devDependencies": {
     "after": "0.8.2",
+    "knex": "0.7.6",
     "connect-redis": "3.4.2",
     "cookie-parser": "1.4.6",
     "cookie-session": "2.0.0",

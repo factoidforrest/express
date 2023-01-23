@@ -1,5 +1,5 @@
 'use strict'
-
+var knex = require('knex');
 var express = require('../../');
 
 var app = module.exports = express()
